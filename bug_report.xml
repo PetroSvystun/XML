@@ -1,1 +1,15 @@
-
+<?xml version = "1.0" encoding = "UTF-8"?>
+  <ID>1</ID>
+  <Author>Pite</Author>
+  <Asigne>PM</Asigne>
+  <Summery>bug_report.xml</Summery>
+  <Description>PM</Description>
+  <STR>
+    <1step>1</1step>
+    <2step>2</2step>
+    <3step>3</3step>
+  </STR>
+  <ER>All_is_great</ER>
+  <AR>All_is_shit</AR>
+  <Priority>Low</Priority>
+  <Severity>Low</Severity>
